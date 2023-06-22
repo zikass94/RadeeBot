@@ -3,5 +3,5 @@ openai
 chromadb
 unstructured
 pdf2image
-tiktoken
+tiktoken==1.0.3
 streamlit
