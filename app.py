@@ -37,7 +37,7 @@ If needed, suggest the Commercial Procedures Guide document via this link https:
 {question}
 """
 
-os.environ['OPENAI_API_KEY'] = 'API_KEY'
+api_key = os.getenv('OPENAI_API_KEY')
 
 client = chromadb.Client()
 
