@@ -3,5 +3,5 @@ openai
 chromadb
 unstructured
 pdf2image
-tiktoken
+https://github.com/openai/tiktoken
 streamlit
